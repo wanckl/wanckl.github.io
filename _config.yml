@@ -6,7 +6,7 @@ email: wanckl@foxmail.com
 description: "A beautiful boy in the world"
 keyword: "NULL"
 url: "https://wanckl.github.io/"        # your host, for absolute URL
-baseurl: "/"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -20,6 +20,7 @@ github_username:    wanckl
 #twitter_username:  
 #facebook_username: 
 linkedin_username:  wanckl
+wechat_username: WanLx
 
 
 # Build settings
